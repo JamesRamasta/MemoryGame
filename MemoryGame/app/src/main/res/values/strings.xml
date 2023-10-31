@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BRAINY!</string>
+    <string name="splash">Splash</string>
+    <string name="only_fragment_label">My Fragment</string>
+
+    <string name="play_label">PLAY</string>
+    <string name="score_label">SCORES</string>
+    <string name="start_label">START</string>
+    <string name="about_label">ABOUT</string>
+    <string name="top_scores"><b>TOP TIME GAME</b></string>
+    <string name="exit_label"><b>X</b></string>
+    <string name="timer_initial">1:00</string>
+    <string name="title_activity_about">About</string>
+    <string name="about_dev_label"><b>From the Developer</b></string>
+    <string name="author_name">James Adrian Ramasta</string>
+    <string name="author_desc">I am James Ramasta, A Third-year IT student from the University of Santo Tomas.
+        I am from San Jose Del Monte Bulacan.\n\nThis is a project for ICS26011 Applications Development And Emerging Technologies 3 (Mobile programming).
+        This is the final project for this course using the Android studio application.\n\nI learned so many things.
+        So I want to thank Ms. Perol for teaching us even we are only 9 students you give us the knowledge that will be engrave in our lives.</string>
+</resources>
